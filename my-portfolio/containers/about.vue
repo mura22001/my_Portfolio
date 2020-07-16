@@ -39,7 +39,6 @@ export default {
           value: 'mura22001',
           url: 'https://github.com/mura22001',
         },
-        { key: 'Mail', value: 'tatsuaki.murahashi@infofarm.co.jp', url: '' },
       ],
     }
   },
